@@ -1,0 +1,3 @@
+2024-07-08 Mon: Today I researched and fixed the cause of the Euler V1 exploit. I also added a Foundry PoC which showed the exploit and verified that the bug is no longer present. Some tweaking of the repo was needed to make it work with Foundry.
+
+2024-07-09 Tue: I continued with the work on Euler V1, running all tests to make sure the addressed bug did not break anything. I continued investigating the deploy scripts, checking which modules can be omitted, what configurations are needed, and is Chainlink a must-have dependency. I ran the development deploy script to a local node.
